@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§6Rank Chat§r Unicode",
+        "description": "Version 1.0.0 by §dMr Maxing§r",
+        "uuid": "2285144a-1286-80f9-5d36-5fcd3b5e74a5",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            19,
+            50
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "3144686a-a441-738a-bb3c-6179135d7b69",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
