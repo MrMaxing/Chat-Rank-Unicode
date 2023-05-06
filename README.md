@@ -5,7 +5,7 @@
 * Addon Version `1.0.0`
 
 # Download Addon
- You can download the Unicode Chat Rank Addon from the GitHub repository at the following [Click to Download]()
+ You can download the Unicode Chat Rank Addon from the GitHub repository at the following [Click to Download](https://github.com/MrMaxing/Chat-Rank-Unicode/archive/refs/heads/main.zip)
 
 # Benefits
  This addon offers a range of benefits, including the ability to customize your chat messages with unique Unicode characters and emojis that represent your rank, status, or personality. With a wide variety of emojis to choose from, youcan make your chat messages fun, expressive, and memorable. 
@@ -15,7 +15,7 @@
 ```md
 /tag @s rank:<unicode>
 ```
-Once you add another rank, the "Player" rank will disappear and you can keep adding new ranks, and the Unicode you can see from the [Unicode list](), you can copy the Unicode code and use it.
+Once you add another rank, the "Player" rank will disappear and you can keep adding new ranks, and the Unicode you can see from the [Unicode list](https://github.com/MrMaxing/Chat-Rank-Unicode#unicode-list), you can copy the Unicode code and use it.
 
 # Unicode List
 
@@ -56,8 +56,8 @@ Once you add another rank, the "Player" rank will disappear and you can keep add
 
 # Creidt
 
-* <img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="15"> [Mr Maxing]()
-* <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-youtube-social-media-round-icon-png-image_6315993.png" width="17"> [Youtube]()
-* <img src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png" width="15"> [Github]()
+Addon Create by Mr Maxing 
+[Youtube](https://www.youtube.com/@MrMaxing)
+[Github](https://github.com/MrMaxing)
 
  Thank you for choosing the Unicode Chat Rank Addon! We hope you enjoy using the unique Unicode characters and emojis to make your chat messages stand out and express yourself in fun new ways. 💫👏
