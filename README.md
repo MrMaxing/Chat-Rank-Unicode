@@ -17,6 +17,8 @@
 ```
 Once you add another rank, the "Player" rank will disappear and you can keep adding new ranks, and the Unicode you can see from the [Unicode list](https://github.com/MrMaxing/Chat-Rank-Unicode#unicode-list), you can copy the Unicode code and use it.
 
+If you don't understand, [watch this clip.](https://youtu.be/URjFtra0yB4)
+
 # Unicode List
 
 | All Unicode |
