@@ -11,7 +11,7 @@
  This addon offers a range of benefits, including the ability to customize your chat messages with unique Unicode characters and emojis that represent your rank, status, or personality. With a wide variety of emojis to choose from, youcan make your chat messages fun, expressive, and memorable. 
 
 # How to Use
- Very easy! To use it first you need to install the add-on to your world, then when you type chat you will find that you have normal rank <img src="https://raw.githubusercontent.com/MrMaxing/Data-Of-Readme/main/Rank%20Chat%20Unicode/Unicode_03.gif" style="position: relative; top: 13px;">, you can add new ranks by use command :
+ Very easy! To use it first you need to install the add-on to your world, then when you type chat you will find that you have normal rank <img src="https://raw.githubusercontent.com/MrMaxing/Data-Of-Readme/main/Rank%20Chat%20Unicode/Unicode_03.gif" style="position: relative; top: 23px;">, you can add new ranks by use command :
 ```md
 /tag @s rank:<unicode>
 ```
