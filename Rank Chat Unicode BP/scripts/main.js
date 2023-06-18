@@ -6,6 +6,8 @@ mc.world.events.beforeChat.subscribe((event) => {
     const display = rank.length > 0 ? rank : '';
     if (player.hasTag('ban_chat'))
         return;
-    event.cancel = true;
+    system.run(() => {
+        event.cancel = true;
     mc.world.sendMessage(`${display} §7${player.name}: §r${message}`);
+    });
 });
