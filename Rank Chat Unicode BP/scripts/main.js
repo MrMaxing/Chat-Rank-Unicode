@@ -8,6 +8,6 @@ mc.world.events.beforeChat.subscribe((event) => {
         return;
     system.run(() => {
         event.cancel = true;
-    mc.world.sendMessage(`${display} §7${player.name}: §r${message}`);
+        mc.world.sendMessage(`${display} §7${player.name}: §r${message}`);
     });
 });
